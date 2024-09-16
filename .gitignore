@@ -4,6 +4,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 *.a
+*.txt
 
 ### Eclipse ###
 .apt_generated
